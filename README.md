@@ -1,5 +1,5 @@
 # my-first-repo
-# I will develop a machine learning model 
+### I will develop a machine learning model 
 A practice sandbox for the **AWS MLU Faculty Fellowship** at Delaware State University, College of Agriculture, Science & Technology.
 
 > This repository exists so you can fork it, edit it, and make your first commit — all in the browser. It is intentionally small and friendly.
